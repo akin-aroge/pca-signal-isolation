@@ -1,4 +1,4 @@
-Isolating Low SNR Water Information in Radiograph Sequence Using Machine Learning
+# Isolating Low SNR Water Information in Radiograph Sequence Using Machine Learning
 
 The analysis here tackles the problem of revealing very low contrast and short duration temporal information from a sequence of radiographic images while elucidating spatial characteristics.
 
