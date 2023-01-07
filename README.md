@@ -16,7 +16,7 @@ The idea is to acquire relatively rapid radiographs and extracting water breakth
 
 The dataset consist of a temporal sequence of grayscale radiographs acquired at regular intervals of 4 seconds. This exists as a 3D .tiff file of about 1GB. The images in the dataset appear as a grayscale image
 
-![raw_radiograph](./reports/images/raw_radiograph.PNG?raw=true)
+![raw_radiograph](./reports/images/raw_radiograph.png?raw=true)
 
 ### Modelling
 
@@ -28,11 +28,11 @@ The dataset consist of a temporal sequence of grayscale radiographs acquired at 
 
 **Vignette Removal Using First Principal Component**
 
-![Vignette-Removal](./reports/images/vignette-removal.PNG?raw=true)
+![Vignette-Removal](./reports/images/vignette-removal.png?raw=true)
 
 **Dominant Water Profile Extraction**
 
-![pc1-major-break](/reports/images/pc1-major-break.PNG?raw=true)
+![pc1-major-break](/reports/images/pc1-major-break.png?raw=true)
 
 
 
