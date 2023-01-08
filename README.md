@@ -25,7 +25,7 @@ The dataset consist of a temporal sequence of grayscale radiographs acquired at 
 
 **Modelling**: To extract temporal liquid water information, the processed dataset if first transformed to a temporal data structure, such that each corresponding pixel across the image sequences form a profile vector. PCA is used to decomposed the signal into components that enable the separation of systematic noise and useful liquid water information. Statistical error analysis is also carried out.
 
-![data-setup](./reports/images/data-setup.png?raw=true)
+![data-setup](./reports/images/data-setup.PNG?raw=true)
 
 ### Sample Results
 
